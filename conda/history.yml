@@ -1,0 +1,32 @@
+name: plausible-nlp-explanations
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - scikit-learn=1.0.1
+  - joblib
+  - scipy
+  - autograd
+  - pathlib
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - lime
+  - tqdm
+  - transformers
+  - cudatoolkit=11.6
+  - pytorch
+  - torchaudio
+  - torchvision
+  - tokenizers
+  - jupyter
+  - ipywidgets
+  - scienceplots
+  - protobuf==3.20.1=py37h295c915_0
+  - accelerate
+  - evaluate
+  - datasets[version='>=1.8.0']
+  - sentencepiece!=0.1.92
+  - tensorboard
+  - shap
