@@ -4,6 +4,8 @@ Code and data of the paper:
 
 > [Lucas E. Resck](https://lucasresck.github.io/), [Marcos M. Raimundo](https://ic.unicamp.br/docente/marcos-medeiros-raimundo/), [Jorge Poco](http://visualdslab.com/~jpocom/). "Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales," **NAACL Findings 2024** (to appear).
 
+Check out the paper on [arXiv](https://arxiv.org/abs/2404.03098)!
+
 ## Instructions
 
 Thank you for your interest in our paper and code.
