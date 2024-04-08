@@ -141,7 +141,7 @@ We release this code under the [MIT License](LICENSE).
 @inproceedings{resck_exploring_2024,
 	address = {Mexico City, Mexico},
 	title = {Exploring the {Trade}-off {Between} {Model} {Performance} and {Explanation} {Plausibility} of {Text} {Classifiers} {Using} {Human} {Rationales}},
-	url = {https://github.com/visual-ds/plausible-nlp-explanations},
+	url = {https://arxiv.org/abs/2404.03098},
 	booktitle = {Findings of the {Association} for {Computational} {Linguistics}: {NAACL} 2024},
 	publisher = {Association for Computational Linguistics},
 	author = {Resck, Lucas E. and Raimundo, Marcos M. and Poco, Jorge},
