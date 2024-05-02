@@ -141,6 +141,7 @@ We release this code under the [MIT License](LICENSE).
 @inproceedings{resck_exploring_2024,
 	address = {Mexico City, Mexico},
 	title = {Exploring the {Trade}-off {Between} {Model} {Performance} and {Explanation} {Plausibility} of {Text} {Classifiers} {Using} {Human} {Rationales}},
+	copyright = {Copyright © 2024 Association for Computational Linguists (ACL). All Rights Reserved. Licensed under the CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/).},
 	url = {https://arxiv.org/abs/2404.03098},
 	booktitle = {Findings of the {Association} for {Computational} {Linguistics}: {NAACL} 2024},
 	publisher = {Association for Computational Linguistics},
