@@ -2,9 +2,9 @@
 
 Code and data of the paper:
 
-> [Lucas E. Resck](https://lucasresck.github.io/), [Marcos M. Raimundo](https://ic.unicamp.br/docente/marcos-medeiros-raimundo/), [Jorge Poco](http://visualdslab.com/~jpocom/). "Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales," **NAACL Findings 2024** (to appear).
+> [Lucas Resck](https://lucasresck.github.io/), [Marcos M. Raimundo](https://ic.unicamp.br/docente/marcos-medeiros-raimundo/), [Jorge Poco](http://visualdslab.com/~jpocom/). "Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales," **NAACL Findings 2024**.
 
-Check out the paper on [arXiv](https://arxiv.org/abs/2404.03098)!
+Check out the [paper](https://aclanthology.org/2024.findings-naacl.262/)!
 
 ## Instructions
 
@@ -141,13 +141,14 @@ We release this code under the [MIT License](LICENSE).
 @inproceedings{resck_exploring_2024,
 	address = {Mexico City, Mexico},
 	title = {Exploring the {Trade}-off {Between} {Model} {Performance} and {Explanation} {Plausibility} of {Text} {Classifiers} {Using} {Human} {Rationales}},
-	copyright = {Copyright © 2024 Association for Computational Linguists (ACL). All Rights Reserved. Licensed under the CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/).},
-	url = {https://arxiv.org/abs/2404.03098},
+	url = {https://aclanthology.org/2024.findings-naacl.262},
 	booktitle = {Findings of the {Association} for {Computational} {Linguistics}: {NAACL} 2024},
 	publisher = {Association for Computational Linguistics},
-	author = {Resck, Lucas E. and Raimundo, Marcos M. and Poco, Jorge},
+	author = {Resck, Lucas and Raimundo, Marcos M. and Poco, Jorge},
+	editor = {Duh, Kevin and Gomez, Helena and Bethard, Steven},
 	month = jun,
 	year = {2024},
-	note = {To appear},
+	note = {Also presented as a poster at the LatinX in NLP at NAACL 2024 workshop},
+	pages = {4190--4216},
 }
 ```
