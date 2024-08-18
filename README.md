@@ -142,6 +142,7 @@ We release this code under the [MIT License](LICENSE).
 	address = {Mexico City, Mexico},
 	title = {Exploring the {Trade}-off {Between} {Model} {Performance} and {Explanation} {Plausibility} of {Text} {Classifiers} {Using} {Human} {Rationales}},
 	url = {https://aclanthology.org/2024.findings-naacl.262},
+	doi = {10.18653/v1/2024.findings-naacl.262},
 	booktitle = {Findings of the {Association} for {Computational} {Linguistics}: {NAACL} 2024},
 	publisher = {Association for Computational Linguistics},
 	author = {Resck, Lucas and Raimundo, Marcos M. and Poco, Jorge},
